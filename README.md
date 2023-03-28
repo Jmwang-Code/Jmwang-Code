@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">
+<img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">](https://raw.githubusercontent.com/Jmwang-code/Jmwang-code/main/assets/github-contribution-grid-snake.svg)
