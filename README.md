@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+<img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/snake/github-snake.svg">
