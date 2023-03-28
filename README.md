@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my page! 
+
+In 2022, I made 270+ contributions and modified 5,000 lines of code.
+
 <img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">
