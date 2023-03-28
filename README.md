@@ -20,3 +20,24 @@ Welcome to my page!
 In 2022, I made 270+ contributions and modified 5,000 lines of code.
 
 <img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">
+
+🔭I’m currently code with
+
+- Java
+- JavaScript
+- Jass
+
+### 💬Contact Me
+
+- Gmail: 792836909@qq.com Or 792836909qq@gmail.com
+
+🌱 I’m currently learning
+
+- Springboot
+- Mysql
+- Oracle
+
+![plex's github stats](https://github-readme-stats.vercel.app/api?username=Jmwang-code&show_icons=true&count_private=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmwang-code&theme=vue-dark)](https://github.com/plexpt)
+
+
