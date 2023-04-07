@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src='https://octodex.github.com/images/filmtocat.png' width='200"'>
 
 Welcome to my page! 
 
 In 2022, I made 270+ contributions and modified 5,000 lines of code.
 
 <img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">
+
+<img align='right' src='https://octodex.github.com/images/filmtocat.png' width='200"'>
 
 🔭I’m currently code with
 
