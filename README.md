@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my page! 
 
-In 2022, I made 270+ contributions and modified 5,000 lines of code.
+In 2022, I made 400+ contributions and modified 8,000 lines of code.
 
 <img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">
 
@@ -32,6 +32,7 @@ In 2022, I made 270+ contributions and modified 5,000 lines of code.
 ### 💬Contact Me
 
 - Gmail: 792836909@qq.com Or 792836909qq@gmail.com
+- csdn:[CSDN](https://blog.csdn.net/jj89929665?type=blog)
 
 🌱 I’m currently learning
 
