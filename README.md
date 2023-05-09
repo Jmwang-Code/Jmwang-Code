@@ -32,8 +32,7 @@ In 2022, I made 400+ contributions and modified 8,000 lines of code.
 ### 💬Contact Me
 
 - Gmail: 792836909@qq.com Or 792836909qq@gmail.com
-- csdn:[CSDN](https://blog.csdn.net/jj89929665?type=blog)
-- <a href="https://blog.csdn.net/jj89929665?type=blog" target="_blank">文字描述</a>
+- Csdn:[CSDN](https://blog.csdn.net/jj89929665?type=blog){:target="_blank" rel="noopener"}
 
 🌱 I’m currently learning
 
