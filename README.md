@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my page! 
 
-In 2022, I made 400+ contributions and modified 8,000 lines of code.
+In 2022, I made 600+ contributions and modified 20,000 lines of code.
 
 <img align="center" src="https://raw.githubusercontent.com/Jmwang-Code/Jmwang-Code/main/assets/github-contribution-grid-snake.svg">
 
@@ -39,8 +39,6 @@ In 2022, I made 400+ contributions and modified 8,000 lines of code.
 - Springboot
 - Mysql
 - Oracle
-
-![plex's github stats](https://github-readme-stats.vercel.app/api?username=Jmwang-code&show_icons=true&count_private=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmwang-code&theme=vue-dark)](https://github.com/plexpt)
 
 
