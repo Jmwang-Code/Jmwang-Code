@@ -36,9 +36,15 @@ In 2022, I made 900+ contributions and modified 100,000 lines of code.
 
 🌱 I’m currently learning
 
-- Springboot
+- Springboot(JDK21、JDK17、JDK8)
 - Mysql
 - Oracle
+- Clickhouse
+- h2
+- sqlite
+- Activiti7
+- Xxl-job
+- redis
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmwang-code&theme=vue-dark)](https://github.com/plexpt)
 
