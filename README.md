@@ -45,6 +45,7 @@ In 2022, I made 900+ contributions and modified 100,000 lines of code.
 - Activiti7
 - Xxl-job
 - redis
+- nacos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmwang-code&theme=vue-dark)](https://github.com/plexpt)
 
